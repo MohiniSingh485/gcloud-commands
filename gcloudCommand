@@ -1,0 +1,6 @@
+1) gcloud auth login
+2) gcloud projects list
+3) gcloud config set project <project-name>
+4) gcloud compute instances list
+5) gcloud compute instances delete <vm-name>
+6) gcloud compute firewall-rules create nodeports --allow tcp:30000-40000
