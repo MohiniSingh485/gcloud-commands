@@ -1,0 +1,2 @@
+1) kubectl api-resources --namespaced=true
+2) kubectl api-resources --namespaced=false
